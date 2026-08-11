@@ -1,0 +1,12 @@
+[Unit]
+Description=Sino Wealth keyboard backlight toggle (Scroll Lock)
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/sino-wealth-backlight.py
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
