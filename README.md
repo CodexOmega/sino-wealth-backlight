@@ -32,6 +32,10 @@ device renumbering between boots and handles keyboard replugs.
 ## Install
 
 ```sh
+git clone https://github.com/CodexOmega/sino-wealth-backlight.git
+```
+
+```sh
 cd sino-wealth-backlight
 ```
 
