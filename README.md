@@ -33,6 +33,9 @@ device renumbering between boots and handles keyboard replugs.
 
 ```sh
 cd sino-wealth-backlight
+```
+
+```sh
 sudo install -m 755 sino-wealth-backlight.py /usr/local/bin/sino-wealth-backlight.py
 sudo install -m 644 sino-wealth-backlight.service /etc/systemd/system/sino-wealth-backlight.service
 sudo systemctl daemon-reload
