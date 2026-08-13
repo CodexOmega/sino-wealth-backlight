@@ -1,6 +1,6 @@
 # sino-wealth-backlight
 
-Toggle a Sino Wealth / CM Storm keyboard backlight with the **Scroll Lock** key on Linux (Wayland/Hyprland).
+Toggle a Sino Wealth / CM Storm keyboard backlight with the **Scroll Lock** key on Linux (KDE/Wayland/Hyprland).
 
 Many budget gaming keyboards (Cooler Master Devastator/CM Storm, and other boards built around the
 Sino Wealth `258a:0001` controller) drive their backlight from the **Scroll Lock LED**: when the
